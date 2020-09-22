@@ -77,4 +77,13 @@
     <module>monappli-web</module>
     <module>monappli-service</module>
   </modules>
+  <scm>
+    <connection>
+      scm:git:file://c:/Users/orsys/GIT_PROJECTS/tp_maven3/monappli
+    </connection>
+    <developerConnection>
+      scm:git:file://c:/Users/orsys/GIT_PROJECTS/tp_maven3/monappli
+    </developerConnection>
+  </scm>
+
 </project>
